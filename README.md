@@ -3,7 +3,7 @@ Summarize any pdf document using OpenAI api
 <!DOCTYPE html>
 <html>
 <head>
-	<title>PDF Summarizer</title>
+	
 </head>
 <body>
 	<h1>PDF Summarizer</h1>
